@@ -3,7 +3,7 @@
 <h4> 🌱 I’m a front-end web developer currently learning mobile app development. </h4>
 
 <h4> My tech stack ⚡ </h4>
-[![HTML5] (https://img.shields.io/badge/-HTML5-brightgreen?style-for-the-badge&logo=html5&logoColor=ffffff)]
+![HTML5](https://img.shields.io/badge/-HTML5-brightgreen?style-for-the-badge&logo=html5&logoColor=ffffff)
 
 (https://img.shields.io/badge/-experienced-brightgreen)
 
