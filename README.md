@@ -2,7 +2,7 @@
 
 🌱 I’m a front-end developer currently learning mobile app development.
 
-https://img.shields.io/badge/HTML5-experienced-brightgreen?logo=appveyor
+https://img.shields.io/badge/-HTML5-brightgreen?style-for-the-badge&logo=html5&logoColor=ffffff
 
 
 
