@@ -1,4 +1,4 @@
-<h2> Hello, World 👋 </h2>
+<h2> Hello, World 😄 </h2>
 
 <h4> 🌱 I’m a front-end web developer currently learning mobile app development. </h4>
 
