@@ -5,7 +5,7 @@
 <h4> ⚡ My tech stack </h4>
 
 ![](https://img.shields.io/badge/-ReactJS-3592C8?style-for-the-badge&logo=react&logoColor=ffffff)
-![](https://img.shields.io/badge/-React Native-teal?style-for-the-badge&logo=react&logoColor=ffffff)
+![](https://img.shields.io/badge/-React Native-yellowgreen?style-for-the-badge&logo=react&logoColor=ffffff)
 ![](https://img.shields.io/badge/-JavaScript-yellow?style-for-the-badge&logo=javascript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-TypeScript-007E88?style-for-the-badge&logo=typescript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Jquery-DE988A?style-for-the-badge&logo=jquery&logoColor=ffffff)
