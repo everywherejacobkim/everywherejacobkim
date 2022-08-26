@@ -6,8 +6,8 @@
 
 ![](https://img.shields.io/badge/-ReactJS-3592C8?style-for-the-badge&logo=react&logoColor=ffffff)
 ![](https://img.shields.io/badge/-ReactNative-90a955?style-for-the-badge&logo=react&logoColor=ffffff)
-![](https://img.shields.io/badge/-JavaScript-yellow?style-for-the-badge&logo=javascript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-TypeScript-007E88?style-for-the-badge&logo=typescript&logoColor=ffffff)
+![](https://img.shields.io/badge/-JavaScript-yellow?style-for-the-badge&logo=javascript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Jquery-DE988A?style-for-the-badge&logo=jquery&logoColor=ffffff)
 ![](https://img.shields.io/badge/-HTML5-C4515B?style-for-the-badge&logo=html5&logoColor=ffffff)
 ![](https://img.shields.io/badge/-CSS3-51A8E6?style-for-the-badge&logo=css3&logoColor=ffffff)
