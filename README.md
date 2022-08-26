@@ -17,7 +17,7 @@
 <br />
 ![](https://img.shields.io/badge/-Node.js-00A198?style-for-the-badge&logo=node.js&logoColor=ffffff)
 ![](https://img.shields.io/badge/-MongoDB-53CA60?style-for-the-badge&logo=mongodb&logoColor=ffffff)
-![](https://img.shields.io/badge/-MySQL-orange?style-for-the-badge&logo=mysql&logoColor=ffffff)
+![](https://img.shields.io/badge/-GraphQL-f72585?style-for-the-badge&logo=graphql&logoColor=ffffff)
 
 <h4> 📫 How to reach me </h4>
 <a href='mailto:everywherejacobkim@gmail.com'><img src='https://img.shields.io/badge/-Email-0FB659?style-for-the-badge&logo=gmail&logoColor=ffffff'></a> 
