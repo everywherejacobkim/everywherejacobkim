@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/-GraphQL-f72585?style-for-the-badge&logo=graphql&logoColor=ffffff)
 
 <h4> 📫 How to reach me </h4>
-<a href='mailto:everywherejacobkim@gmail.com'><img src='https://img.shields.io/badge/-Email-0FB659?style-for-the-badge&logo=gmail&logoColor=ffffff'></a> 
+<a href='mailto:developerjacobkim@gmail.com'><img src='https://img.shields.io/badge/-Email-0FB659?style-for-the-badge&logo=gmail&logoColor=ffffff'></a> 
 <a href='https://www.linkedin.com/in/everywherejacobkim/'><img src='https://img.shields.io/badge/-LinkedIn-008AFF?style-for-the-badge&logo=linkedin&logoColor=ffffff'></a> 
 
 
