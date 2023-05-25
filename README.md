@@ -1,5 +1,5 @@
 <h2> 
-  Welcome to my Github portfolio! <br/>
+  Welcome to my Github portfolio!
   <h3> Explore my projects and coding journey.</h3>
 </h2>
 
