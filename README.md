@@ -1,12 +1,14 @@
-<h2> 
-  Welcome to my Github portfolio!
-  <h3> Explore my projects and coding journey.</h3>
-</h2>
+## Welcome to my GitHub portfolio!
+
+✈️  Explore my projects and coding journey 🇨🇦🇰🇷
+
+---
+
 
 <h4> 🧑🏻‍💻 About Me: </h4>
 <p> I'm a passionate web & mobile app developer specializing in creating intuitive and user-friendly experiences. I have a strong desire to learn and continuously explore new technologies while working on web and mobile projects. Staying up-to-date and embracing new possibilities in the ever-evolving development world is my priority. Let's work together to bring your ideas to life and create something amazing! </p>
 
-<h4> ⚡ My tech stack </h4>
+<h4> 🔥 My tech stack </h4>
 
 ![](https://img.shields.io/badge/-ReactJS-22577a?style-for-the-badge&logo=react&logoColor=ffffff)
 ![](https://img.shields.io/badge/-ReactNative-38a3a5?style-for-the-badge&logo=react&logoColor=ffffff)
@@ -27,7 +29,7 @@
 <a href='mailto:developerjacobkim@gmail.com'><img src='https://img.shields.io/badge/-Email-0FB659?style-for-the-badge&logo=gmail&logoColor=ffffff'></a> 
 <a href='https://www.linkedin.com/in/everywherejacobkim/'><img src='https://img.shields.io/badge/-LinkedIn-008AFF?style-for-the-badge&logo=linkedin&logoColor=ffffff'></a> 
 
-
+---
 
 <!--
 **everywherejacobkim/everywherejacobkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
