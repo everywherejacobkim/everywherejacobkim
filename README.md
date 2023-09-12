@@ -14,17 +14,20 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-yellow?style-for-the-badge&logo=javascript&logoColor=ffffff)
-![](https://img.shields.io/badge/-Jquery-DE988A?style-for-the-badge&logo=jquery&logoColor=ffffff)
-![](https://img.shields.io/badge/-HTML5-C4515B?style-for-the-badge&logo=html5&logoColor=ffffff)
-![](https://img.shields.io/badge/-CSS3-51A8E6?style-for-the-badge&logo=css3&logoColor=ffffff)
-![](https://img.shields.io/badge/-SASS-FF6681?style-for-the-badge&logo=sass&logoColor=ffffff)
-![](https://img.shields.io/badge/-Bootstrap-4A4453?style-for-the-badge&logo=bootstrap&logoColor=ffffff)
-![](https://img.shields.io/badge/-Tailwind-B5A0D6?style-for-the-badge&logo=tailwindcss&logoColor=ffffff)
-<br />
-![](https://img.shields.io/badge/-NodeJs-90a955?style-for-the-badge&logo=node.js&logoColor=ffffff)
-![](https://img.shields.io/badge/-MongoDB-53CA60?style-for-the-badge&logo=mongodb&logoColor=ffffff)
-![](https://img.shields.io/badge/-GraphQL-f72585?style-for-the-badge&logo=graphql&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h4> 📫 How to reach me </h4>
 <a href='mailto:developerjacobkim@gmail.com'><img src='https://img.shields.io/badge/-Email-0FB659?style-for-the-badge&logo=gmail&logoColor=ffffff'></a> 
