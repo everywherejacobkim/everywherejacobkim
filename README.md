@@ -10,8 +10,9 @@
 
 <h4> 🔥 My tech stack </h4>
 
-![](https://img.shields.io/badge/-ReactJS-22577a?style-for-the-badge&logo=react&logoColor=ffffff)
+![](https://img.shields.io/badge/-ReactJs-22577a?style-for-the-badge&logo=react&logoColor=ffffff)
 ![](https://img.shields.io/badge/-ReactNative-38a3a5?style-for-the-badge&logo=react&logoColor=ffffff)
+![](https://img.shields.io/badge/-NextJs-f4a261?style-for-the-badge&logo=react&logoColor=ffffff)
 ![](https://img.shields.io/badge/-TypeScript-57cc99?style-for-the-badge&logo=typescript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-JavaScript-yellow?style-for-the-badge&logo=javascript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Jquery-DE988A?style-for-the-badge&logo=jquery&logoColor=ffffff)
