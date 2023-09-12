@@ -10,10 +10,10 @@
 
 <h4> 🔥 My tech stack </h4>
 
-![](https://img.shields.io/badge/-ReactJs-22577a?style-for-the-badge&logo=react&logoColor=ffffff)
-![](https://img.shields.io/badge/-ReactNative-38a3a5?style-for-the-badge&logo=react&logoColor=ffffff)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-57cc99?style-for-the-badge&logo=typescript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-yellow?style-for-the-badge&logo=javascript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Jquery-DE988A?style-for-the-badge&logo=jquery&logoColor=ffffff)
 ![](https://img.shields.io/badge/-HTML5-C4515B?style-for-the-badge&logo=html5&logoColor=ffffff)
