@@ -32,7 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everywherejacobkim&layout=compact)
-[![Jacob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=everywherejacobkim)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4> 📫 How to reach me </h4>
 <a href='mailto:developerjacobkim@gmail.com'><img src='https://img.shields.io/badge/-Email-0FB659?style-for-the-badge&logo=gmail&logoColor=ffffff'></a> 
