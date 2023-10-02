@@ -31,6 +31,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 <h4> 📫 How to reach me </h4>
 <a href='mailto:developerjacobkim@gmail.com'><img src='https://img.shields.io/badge/-Email-0FB659?style-for-the-badge&logo=gmail&logoColor=ffffff'></a> 
 <a href='https://www.linkedin.com/in/everywherejacobkim/'><img src='https://img.shields.io/badge/-LinkedIn-008AFF?style-for-the-badge&logo=linkedin&logoColor=ffffff'></a> 
